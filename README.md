@@ -67,4 +67,4 @@ The workflow includes:
 ---
 
 ## 🚀 Running the Project
-APP LINK:
+APP LINK:https://strokeprediction-es29qwjjeufs5ro8cxwiwf.streamlit.app/
